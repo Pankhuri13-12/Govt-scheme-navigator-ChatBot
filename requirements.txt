@@ -1,5 +1,5 @@
 streamlit
 langchain-community
 langchain-groq
-sentence-transformers
+langchain-huggingface
 chromadb
